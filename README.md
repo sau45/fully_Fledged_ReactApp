@@ -12,6 +12,7 @@ Welcome to our Movie Recommendation Website! This application is designed to hel
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
@@ -49,6 +50,27 @@ Our Movie Recommendation Website is a user-friendly and intuitive platform that 
 - Frontend: HTML, CSS, JavaScript, ReactJS,ReduxToolkit
 - Third-party APIs: (List any third-party APIs used, e.g., The Movie Database API for movie metadata i.e.TMDB)
 - Recommendation Engine: Collaborative Filtering, Machine Learning Algorithms
+
+## Screenshots
+
+                                                  First page(banner)
+![image](https://github.com/sau45/fully_Fledged_ReactApp/assets/87286258/7313c8f0-74cc-48a2-92b5-869c25502329)
+
+                                                   Trending page
+![image](https://github.com/sau45/fully_Fledged_ReactApp/assets/87286258/c6e1cbed-ec37-4304-9746-a9144c1e0b22)
+
+                                                    Individual Page
+![image](https://github.com/sau45/fully_Fledged_ReactApp/assets/87286258/f27df306-3de9-4c11-a3b2-d7cc0dc32f62)
+
+                                                       search 
+  ![image](https://github.com/sau45/fully_Fledged_ReactApp/assets/87286258/2b9d9e82-f990-42be-9030-31a7da24ebd1)
+
+                                                        Search Results
+  ![image](https://github.com/sau45/fully_Fledged_ReactApp/assets/87286258/1a1932de-5642-45e5-82de-2a89f8551fe0)
+
+
+                                                    
+
 
 ## Contributing
 
